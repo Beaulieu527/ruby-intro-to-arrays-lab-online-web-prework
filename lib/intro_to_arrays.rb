@@ -15,10 +15,10 @@ end
 
 def first_element
   taylor_swift.first
-  return
+  return taylor_swift.inspect
 end
 
 def third_element
   taylor_swift[2]
-  return
+  return taylor_swift.inspect
 end
