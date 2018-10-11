@@ -1,6 +1,6 @@
 def instantiate_new_array
   numbers = []
-  puts numbers.inspect
+ return numbers
 end
 
 def array_with_two_elements
