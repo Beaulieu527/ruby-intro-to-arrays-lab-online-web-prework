@@ -21,7 +21,7 @@ end
 def third_element(array, index_number)
   taylor_swift = ["Welcome to New York", "Blank Space", "Style", "Out of The Woods"]
   taylor_swift[2]
-  return
+  puts taylor_swift.inspect
 end
 
 def last_element(array, index_number)
