@@ -8,14 +8,14 @@ def array_with_two_elements
   return nubers
 end
 
-def first_element(array, index_number)
+def first_element(array)
   array[0]
 end
 
-def third_element(array, index_number)
+def third_element(array)
   array[2]
 end
 
-def last_element(array, index_number)
+def last_element(array)
   array[-1]
 end
