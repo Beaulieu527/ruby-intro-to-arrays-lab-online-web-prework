@@ -22,3 +22,8 @@ def third_element
   taylor_swift[2]
   puts taylor_swift.inspect
 end
+
+def last_element
+  taylor_swift.last
+  puts taylor_swift.inspect
+end
