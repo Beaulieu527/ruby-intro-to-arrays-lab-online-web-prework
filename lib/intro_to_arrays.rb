@@ -19,7 +19,7 @@ def first_element
 end
 
 def third_element
-  taylor_swift[2]
+  taylor_swift[3]
   puts taylor_swift.inspect
 end
 
