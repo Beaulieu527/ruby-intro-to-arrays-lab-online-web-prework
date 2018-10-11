@@ -10,11 +10,15 @@ end
 
 def taylor_swift
   taylor_swift = ["Welcome to New York", "Blank Space", "Style", "Out of The Woods"]
-  taylor_swift.last
-  taylor_swift[2]
-  return
+  return taylor_swift
 end
 
 def first_element
   taylor_swift.first
+  return
+end
+
+def third_element
+  taylor_swift[2]
+  return
 end
