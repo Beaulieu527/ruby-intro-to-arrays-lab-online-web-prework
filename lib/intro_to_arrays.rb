@@ -13,4 +13,5 @@ def taylor_swift
   taylor_swift.first
   taylor_swift.last
   taylor_swift[2]
+  return taylor_swift
 end
