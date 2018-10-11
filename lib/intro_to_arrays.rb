@@ -1,5 +1,5 @@
-def new_array
- array = []
+def instantiate_new_array
+  []
   puts array.index
 end
 
