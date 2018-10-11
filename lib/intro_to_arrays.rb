@@ -1,6 +1,6 @@
 def instantiate_new_array
   []
-  puts array.index
+  puts array.size
 end
 
 def array_with_two_elements
