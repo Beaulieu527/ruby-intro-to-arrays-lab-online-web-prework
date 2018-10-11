@@ -16,17 +16,17 @@ end
 def first_element
   taylor_swift = ["Welcome to New York", "Blank Space", "Style", "Out of The Woods"]
   taylor_swift[0]
-  puts taylor_swift
+  puts taylor_swift.inspect
 end
 
 def third_element
   taylor_swift = ["Welcome to New York", "Blank Space", "Style", "Out of The Woods"]
   taylor_swift[2]
-  puts taylor_swift
+  puts taylor_swift.inspect
 end
 
 def last_element
   taylor_swift = ["Welcome to New York", "Blank Space", "Style", "Out of The Woods"]
   taylor_swift[-1]
-  puts taylor_swift
+  puts taylor_swift.inspect
 end
