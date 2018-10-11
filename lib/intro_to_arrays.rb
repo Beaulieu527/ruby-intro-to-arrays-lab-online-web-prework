@@ -10,16 +10,12 @@ end
 
 def first_element(array, index_number)
   array[0]
-  return
 end
 
 def third_element(array, index_number)
-  \
-  puts taylor_swift.inspect
+  array[2]
 end
 
 def last_element(array, index_number)
-  taylor_swift = ["Welcome to New York", "Blank Space", "Style", "Out of The Woods"]
-  taylor_swift[-1]
-  return
+  array[-1]
 end
